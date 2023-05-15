@@ -1,0 +1,19 @@
+.eqa{
+    background-color: rgb(164, 220, 52);
+    height: 60%;
+    width: 30%;
+}
+.eqb{
+    background-color: rgb(23, 171, 208);
+    height: 60%;
+    width: 30%;
+}
+.container{
+    display: flex;
+}
+.placar{
+    display: flex;
+}
+.pontos{
+
+}
